@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏾, My Name is Nicholas</h1>
-<h3 align="center">A passionate Software Developer 👨🏾‍💻 from United States 🇺🇸</h3>
+<h3 align="center">A passionate Software Developer 👨🏾‍💻 from the United States 🇺🇸</h3>
 
 <img align="right" alt="Coding" width="600" src="https://navsurf.com/wp-content/uploads/2019/09/webdev.jpg" > 
 - 🧠 I’m currently learning *Cloud Computing, & *Containerization
@@ -21,6 +21,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nxm67420&show_icons=true&locale=en&layout=compact" alt="nxm67420" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nxm67420&show_icons=true&locale=en" alt="nxm67420" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nxm67420&" alt="nxm67420" /></p>
 
