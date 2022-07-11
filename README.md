@@ -1,13 +1,12 @@
-<h1 align="center">Hi 👋🏾, I'm Nick</h1>
-<h3 align="center">A passionate backend developer from United States</h3>
+<h1 align="center">Hi 👋🏾, My Name is Nicholas</h1>
+<h3 align="center">A passionate Software Developer 👨🏾‍💻 from United States 🇺🇸</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nxm67420" alt="nxm67420" /></a> </p>
 <img align="right" alt="Coding" width="600" src="https://navsurf.com/wp-content/uploads/2019/09/webdev.jpg" > 
-- 🌱 I’m currently learning **Cloud Computing,Containerization**
+- 🧠 I’m currently learning *Cloud Computing, & *Containerization
 
-- 💬 Ask me about **Java**
+- 🗣 Ask me about **Java
 
-- 📫 How to reach me **nxm67420@ucmo.edu**
+- 📩 How to reach me **nxm67420@ucmo.edu**
 
 - ⚡ Fun fact **I dont quit**
 
